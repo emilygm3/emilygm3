@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Emily (she/her), a second year Data Science and Behavioral Neuroscience major at Northeastern! I'm interested in AI and ML, and I love exploring the interdisciplinary nature of data science. When I'm not coding, you can find me talking about my dog🐶 or finding my new favorite matcha🍵 spot!
+I'm Emily (she/her), a third year Data Science and Behavioral Neuroscience major at Northeastern! I'm interested in AI and ML, and I love exploring the interdisciplinary nature of data science. When I'm not coding, you can find me talking about my dog🐶 or finding my new favorite matcha🍵 spot!
 
 ## Projects
 ### Spring 2025: 
